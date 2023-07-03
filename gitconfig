@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yangyli0107@gmail.com
+	name = Elaine Li
